@@ -265,6 +265,26 @@
     color: var(--dark);
 }
 
+.table-color{
+    background-color: #1148a7;
+    color: #fef45b;
+}
+.heading-color{
+    color: #fff;
+}
+.head-colour{
+    color: #1148a7;
+}
+.img-main{
+   height: 240px;
+   width: 400px;
+}
+.img-size{
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+}
+
 .nav-pills .nav-item .btn:hover,
 .nav-pills .nav-item .btn.active {
     color: #FFFFFF;
